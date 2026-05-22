@@ -157,7 +157,7 @@ Segundo o autor, o uso adequado de comentários serve para compensar o nosso fra
 
 
  
-### Comentários Compensam um Código Ruim
+### Comentarios Compensam um Código Ruim
 
  Muitas vezes escrevemos comentários para tentar explicar uma bagunça que nós mesmos fizemos. Em vez de gastar tempo comentando um código ruim, o correto é limpá-lo e refatorá-lo.
 
@@ -168,7 +168,7 @@ Segundo o autor, o uso adequado de comentários serve para compensar o nosso fra
  Na maioria das vezes, é perfeitamente possível expressar a intenção do programa diretamente no código. Isso pode ser resolvido simplesmente criando uma função cujo nome descreva exatamente o que se pretendia colocar em um comentário.
 
 
-### Comentários Bons
+### Comentarios Bons
 
 São aqueles considerados necessários ou benéficos, embora o autor ressalte que o melhor comentário é aquele que você encontrou um meio de não escrever.
 
